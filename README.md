@@ -2,22 +2,11 @@
 
 HeroSMS 是一个提供海外短信验证码接收服务的在线接码平台，支持全球 200+ 国家虚拟手机号，可用于 Telegram、WhatsApp、TikTok、Google 等平台账号注册与短信验证。随着 SMS-Activate 停止运营，越来越多用户开始转向 HeroSMS。本页面整理了 HeroSMS 接码平台最新官网地址、平台介绍、主要功能以及使用方法，帮助用户快速找到官方入口并了解如何使用 HeroSMS 接收短信验证码。
 
----
-
-## 📌 HeroSMS 最新官网地址
-
-> 为防止官网地址变更，建议收藏本仓库。
-
 - **HeroSMS 官网地址：**  
   👉 [https://herosms.com](https://go2lk.pages.dev/p72h6b)
 
-如果官网无法访问，可以通过以下方式获取最新地址：
 
-- 关注本仓库更新
-- 查看 Issues 区留言
-- 通过搜索引擎查询 “HeroSMS 接码平台”
 
----
 
 ## 🚀 HeroSMS 平台简介
 
