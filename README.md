@@ -6,12 +6,11 @@ HeroSMS 是一个提供海外短信验证码接收服务的在线接码平台，
 
 ![HeroSMS 官网地址](./herosms-new.jpeg)
 
-
 **优惠活动**
 
-促销码：`clashsub`
-优惠码说明：最高享85折优惠
-截止时间：长期有效
+- 促销码：`clashsub`
+- 优惠说明：最高享85折优惠
+- 截止时间：长期有效
 
 <img width="786" height="166" alt="image" src="https://github.com/user-attachments/assets/597ad9b7-a15f-4699-8d8b-5c73157094c7" />
 
