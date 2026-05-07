@@ -12,7 +12,15 @@ HeroSMS 是一个提供海外短信验证码接收服务的在线接码平台，
 - 优惠说明：最高享85折优惠
 - 截止时间：长期有效
 
-<img width="786" height="166" alt="image" src="https://github.com/user-attachments/assets/597ad9b7-a15f-4699-8d8b-5c73157094c7" />
+<img width="786" height="166" alt="优惠活动" src="https://github.com/user-attachments/assets/597ad9b7-a15f-4699-8d8b-5c73157094c7" />
+
+使用优惠码后即可直升2级会员，享受：
+
+- 全站 85 折优惠
+- 长期消费折扣
+- 更低号码购买价格
+
+  <img width="1344" height="137" alt="使用优惠码后即可直升2级会员" src="https://github.com/user-attachments/assets/05044ab8-dcef-4596-b0dd-c2548fd9c1cf" />
 
 
 ## 🚀 HeroSMS 平台简介
