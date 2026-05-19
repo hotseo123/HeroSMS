@@ -43,6 +43,8 @@ HeroSMS 是一个提供 **在线短信接码服务** 的平台，用户可以租
 - Facebook  
 - 以及更多海外平台
 
+<img width="530" height="608" alt="平台" src="https://github.com/user-attachments/assets/80f13948-bc43-4129-889a-82988a22c108" />
+
 ---
 
 ## 🌍 支持国家
