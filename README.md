@@ -45,8 +45,6 @@ HeroSMS 是一个提供 **在线短信接码服务** 的平台，用户可以租
 
 <img width="530" height="608" alt="平台" src="https://github.com/user-attachments/assets/80f13948-bc43-4129-889a-82988a22c108" />
 
----
-
 ## 🌍 支持国家
 
 HeroSMS 提供 **200+ 国家和地区** 的虚拟号码资源，例如：
