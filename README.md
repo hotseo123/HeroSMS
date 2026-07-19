@@ -27,8 +27,7 @@ SMS-Activate平台已于2025年12月停止运营，网上的说法是是转向�
 
 <img width="1424" height="696" alt="SMS-Activate平替HeroSMS" src="https://github.com/user-attachments/assets/577b6749-ca7f-4f7b-9cc1-afab418fbea0" />
 
-
-## 🚀 HeroSMS 平台简介
+## 🚀 HeroSMS平台简介
 
 HeroSMS 是一个提供 **在线短信接码服务** 的平台，用户可以租用来自全球多个国家的虚拟手机号，用于接收各种网站或应用发送的短信验证码。
 
