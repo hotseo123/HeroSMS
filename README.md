@@ -29,7 +29,7 @@ SMS-Activate平台已于2025年12月停止运营，网上的说法是是转向�
 
 ## 🚀 HeroSMS平台简介
 
-HeroSMS 是一个提供 **在线短信接码服务** 的平台，用户可以租用来自全球多个国家的虚拟手机号，用于接收各种网站或应用发送的短信验证码。
+HeroSMS是一个提供 **在线短信接码服务** 的平台，用户可以租用来自全球多个国家的虚拟手机号，用于接收各种网站或应用发送的短信验证码。
 
 常见用途包括：
 
@@ -44,7 +44,8 @@ HeroSMS 是一个提供 **在线短信接码服务** 的平台，用户可以租
 - WhatsApp  
 - TikTok  
 - Google  
-- Facebook  
+- Facebook
+- Gmail
 - 以及更多海外平台
 
 <img width="530" height="608" alt="平台" src="https://github.com/user-attachments/assets/80f13948-bc43-4129-889a-82988a22c108" />
