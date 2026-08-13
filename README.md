@@ -25,7 +25,7 @@ HeroSMS是一个提供海外短信验证码接收服务的在线接码平台，�
 
 SMS-Activate平台已于2025年12月停止运营，网上的说法是是转向了HeroSMS平台，为HeroSMS平台提供技术支持，官网也明确推荐大家使用HeroSMS平台，这样上手的成本会更低。
 
-<img width="1424" height="696" alt="SMS-Activate平替HeroSMS" src="https://github.com/user-attachments/assets/577b6749-ca7f-4f7b-9cc1-afab418fbea0" />
+<img width="1424" height="696" alt="SMS-Activate官网推荐平替HeroSMS" src="https://github.com/user-attachments/assets/577b6749-ca7f-4f7b-9cc1-afab418fbea0" />
 
 ## 🚀 HeroSMS平台简介
 
