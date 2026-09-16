@@ -1,6 +1,6 @@
 # HeroSMS 接码平台最新官网地址(内附85折促销码)
 
-HeroSMS是一个提供海外短信验证码接收服务的在线接码平台，支持全球180+国家虚拟手机号，每日提供50万多个号码，支持700+网站及应用专用号码, 由SMS-Activate技术基础设施提供支持，可用于Telegram、WhatsApp、TikTok、Google 等平台账号注册与短信验证。随着SMS-Activate 停止运营，越来越多用户开始转向HeroSMS。本页面整理了HeroSMS 接码平台最新官网地址、平台介绍、主要功能以及使用方法，帮助用户快速找到官方入口并了解如何使用HeroSMS接收短信验证码。
+HeroSMS是一个提供海外短信验证码接收服务的在线接码平台，支持全球180+国家虚拟手机号，每日提供50万+多个号码，支持700+网站及应用专用号码, 由SMS-Activate技术基础设施提供支持，可用于Telegram、WhatsApp、TikTok、Google 等平台账号注册与短信验证。随着SMS-Activate停止运营，越来越多用户开始转向HeroSMS。本页面整理了HeroSMS接码平台最新官网地址、平台介绍、主要功能以及使用方法，帮助用户快速找到官方入口并了解如何使用HeroSMS接收短信验证码。
 
 - **HeroSMS 官网地址：**  👉 [https://herosms.com](https://go2lk.pages.dev/p72h6b)
 
@@ -22,7 +22,7 @@ HeroSMS是一个提供海外短信验证码接收服务的在线接码平台，�
 
 <img width="1344" height="137" alt="使用优惠码后即可直升2级会员" src="https://github.com/user-attachments/assets/05044ab8-dcef-4596-b0dd-c2548fd9c1cf" />
 
-SMS-Activate平台已于2025年12月停止运营，网上的说法是是转向了HeroSMS平台，为HeroSMS平台提供技术支持，官网也明确推荐大家使用HeroSMS平台，这样上手的成本会更低。
+SMS-Activate平台已于**2025年12月**停止运营，网上的说法是是转向了HeroSMS平台，为HeroSMS平台提供技术支持，官网也明确推荐大家使用HeroSMS平台，这样上手的成本会更低。
 
 <img width="1424" height="696" alt="SMS-Activate官网推荐平替HeroSMS" src="https://github.com/user-attachments/assets/577b6749-ca7f-4f7b-9cc1-afab418fbea0" />
 
